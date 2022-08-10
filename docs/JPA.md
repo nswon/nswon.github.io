@@ -6,6 +6,4 @@ has_children: true
 permalink: /docs/JPA
 ---
 
-#JPA
-
-JPA Page tests
+# JPA

@@ -5,7 +5,7 @@ parent: JPA
 nav_order: 1
 ---
 
-# 연관관계 방향 설정하기
+# 연관관계 방향 설정
 {: .no_toc}
 
 ## Table of contents
