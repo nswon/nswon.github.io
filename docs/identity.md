@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 기본 키를 매핑
+title: 기본 키 매핑
 parent: JPA
 nav_order: 1
 ---
