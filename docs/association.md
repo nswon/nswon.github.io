@@ -3,9 +3,11 @@ layout: default
 title: 연관관계 방향 설정
 parent: JPA
 nav_order: 1
+has_toc: false
 ---
 
-# 연관관계 방향 설정
+## Table of contents
+{: .no_toc .text-delta }
 
 ## Entity간의 연관관계(방향) 이란?
 
