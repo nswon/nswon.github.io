@@ -112,4 +112,4 @@ defaults:
     values:
       layout: "post"
 
-remote_theme: vsoch/docsy-jekyll
+remote_theme: docsy-jekyll/docsy-jekyll
