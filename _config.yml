@@ -1,7 +1,7 @@
-site: Sidey
+site: nswon
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: nswon
+description: blog
 twitter:
   username: #yourusername
   card: summary
