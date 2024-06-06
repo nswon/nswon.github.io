@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>nswon</title>
- <link href="/atom.xml" rel="self"/>
- <link href="/"/>
- <updated>2024-06-06T13:29:06+09:00</updated>
- <id></id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-06-06T13:44:37+09:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>temp</title>
-   <link href="/2024/06/06/temp"/>
+   <link href="http://localhost:4000/2024/06/06/temp"/>
    <updated>2024-06-06T00:00:00+09:00</updated>
-   <id>/2024/06/06/temp</id>
+   <id>http://localhost:4000/2024/06/06/temp</id>
    <content type="html">&lt;p&gt;임시 포스트입니다.&lt;/p&gt;
 </content>
  </entry>

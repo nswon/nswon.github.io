@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "nswon",
-    "home_page_url": "/",
-    "feed_url": "/feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "blog",
-    "icon": "/apple-touch-icon.png",
-    "favicon": "/favicon.ico",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
@@ -13,12 +13,12 @@
 "items": [
     
         {
-            "id": "/2024/06/06/temp",
+            "id": "http://localhost:4000/2024/06/06/temp",
             "title": "temp",
             "summary": null,
             "content_text": "임시 포스트입니다.",
             "content_html": "<p>임시 포스트입니다.</p>",
-            "url": "/2024/06/06/temp",
+            "url": "http://localhost:4000/2024/06/06/temp",
             
             
             
